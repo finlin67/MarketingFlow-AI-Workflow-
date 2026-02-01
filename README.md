@@ -14,7 +14,8 @@ MarketingFlow AI is a production-ready, 600x600px optimized React component desi
 - **Live Performance Simulation**: Dynamic stat cards tracking Reach, ROI, and Lead Generation with animated growth metrics.
 - **High-Fidelity UI**: Built with Framer Motion for fluid transitions and Tailwind CSS for a premium, glassmorphic aesthetic.
 
-<img width="612" height="613" alt="image" src="https://github.com/user-attachments/assets/c4b3b174-a42e-4896-b28d-a49b8d16dde1" />
+<center><img width="312" height="313" alt="image" src="https://github.com/user-attachments/assets/c4b3b174-a42e-4896-b28d-a49b8d16dde1" /></center>
+
 
 ## 🛠️ Tech Stack
 
