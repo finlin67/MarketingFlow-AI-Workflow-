@@ -1,5 +1,4 @@
 # MarketingFlow AI Workflow
-<img width="612" height="613" alt="image" src="https://github.com/user-attachments/assets/c4b3b174-a42e-4896-b28d-a49b8d16dde1" />
 
 Strategic Content Automation & Insight Engine. This high-fidelity dashboard visualizes a complete content marketing pipeline—from initial ideation to viral engagement optimization.
 
@@ -14,6 +13,8 @@ MarketingFlow AI is a production-ready, 600x600px optimized React component desi
 - **AI-Powered Insights**: Seamless integration with the **Gemini 3 Flash** model to generate context-aware marketing optimizations based on selected distribution channels.
 - **Live Performance Simulation**: Dynamic stat cards tracking Reach, ROI, and Lead Generation with animated growth metrics.
 - **High-Fidelity UI**: Built with Framer Motion for fluid transitions and Tailwind CSS for a premium, glassmorphic aesthetic.
+
+<img width="612" height="613" alt="image" src="https://github.com/user-attachments/assets/c4b3b174-a42e-4896-b28d-a49b8d16dde1" />
 
 ## 🛠️ Tech Stack
 
