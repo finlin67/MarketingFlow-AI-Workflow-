@@ -1,4 +1,5 @@
 # MarketingFlow AI Workflow
+<img width="612" height="613" alt="image" src="https://github.com/user-attachments/assets/c4b3b174-a42e-4896-b28d-a49b8d16dde1" />
 
 Strategic Content Automation & Insight Engine. This high-fidelity dashboard visualizes a complete content marketing pipeline—from initial ideation to viral engagement optimization.
 
