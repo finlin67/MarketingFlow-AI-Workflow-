@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { 
@@ -106,7 +105,7 @@ export default function MarketingFlowAI() {
 
   // Organic Jitter Stats Simulation (Recursive setTimeout)
   useEffect(() => {
-    let timeoutId: NodeJS.Timeout;
+    let timeoutId: ReturnType<typeof setTimeout>;
 
     const updateStats = () => {
       setStats(prev => ({
